@@ -4,3 +4,7 @@ dinov2_vitb14_reg4_linear_head.pth
 dinov2_vitb14_reg4_linear4_head.pth
 Model/trained_parameters_vits_3class_1freezedblock.pth
 Model/trained_parameters_vitb_3class_.pth
+
+Model/trained_parameters:vits_3class_2blockunfreezed.pth
+Model/trained_parameters_vits_3class_3blockunfreezed.pth
+Model/trained_parameters_vits_3class_2blockunfreezed.pth
